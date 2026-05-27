@@ -7,3 +7,6 @@ if contador>=2:
     print("El correo es válido")
 else:
     print("El correo no es válido")
+    
+for i in range(5):
+    print(f"Valor de i: {i} ")
